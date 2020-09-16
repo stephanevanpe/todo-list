@@ -1,3 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ffb14ce-c3f0-4054-ae9c-0c8b6b8ebc28/deploy-status)](https://app.netlify.com/sites/todo-listsvp/deploys)
+
+## Demo
+
+https://todo-listsvp.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
